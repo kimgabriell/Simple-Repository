@@ -1,2 +1,2 @@
 # Simple-Repository
-This is my first github repository.
+Im Kim and this is my first github repository.
