@@ -1,2 +1,2 @@
 # Simple-Repository
-This is my fisrt github repository.
+This is my first github repository.
